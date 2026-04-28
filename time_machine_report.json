@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-04-28T15:53:14.421452",
+  "backup_key": "backups/time-machine-test/20260428_155313.json",
+  "items_backed_up": 5,
+  "items_restored": 5,
+  "recovery_time_seconds": 0.28,
+  "rpo": "Near zero",
+  "rto": "0.28 seconds",
+  "status": "SUCCESS"
+}
